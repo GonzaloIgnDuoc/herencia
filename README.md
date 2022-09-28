@@ -1,0 +1,2 @@
+# herencia
+Ejemplo de herencia
